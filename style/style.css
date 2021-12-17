@@ -313,7 +313,7 @@ body {
 .linkToHeart{
   font-weight: bold;
   font-size:25px;
-  text-decoration: none;
+/*   text-decoration: none; */
   color: #FF0000
 }
 
